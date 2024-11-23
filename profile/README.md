@@ -16,9 +16,13 @@ ___
 
 ### Links
   - Official Website: [Project Aloha home](https://project-aloha.github.io/)
-  - Telegram group: [Project Aloha issues & advice](https://t.me/project_aloha_issues)
-  - Tencent QQ group: [Project Aloha 问题与建议](https://qm.qq.com/cgi-bin/qm/qr?k=r2Gb_eHElZq0T7Rczf4rnEMsMdX6gbvF&jump_from=webapi&authKey=L4/pvGXcxQQddJpzUoa3qEh6P4n/fbF88oPKuPh4L0EFIEj5cY1k06i2w78gA5m5)
-  - Mindows Flash Tool: *[Mindows Chinese Page](http://mindows.cn/)*
+  - Groups:
+    > Please do not join in groups only for asking "Does my device or a platform supports running windows", You can check our [uefi readme](https://github.com/project-aloha/mu_aloha_platforms?tab=readme-ov-file#target-list) to get devices list that support booting windows. Alternatively, you can also check mindows supports list for onekey flashing.
+    + Telegram group: [Project Aloha issues & advice](https://t.me/project_aloha_issues)
+    + Tencent QQ group: [Project Aloha 问题与建议](https://qm.qq.com/cgi-bin/qm/qr?k=r2Gb_eHElZq0T7Rczf4rnEMsMdX6gbvF&jump_from=webapi&authKey=L4/pvGXcxQQddJpzUoa3qEh6P4n/fbF88oPKuPh4L0EFIEj5cY1k06i2w78gA5m5)
+  - Related Links
+    + Mindows Flash Tool: [Mindows Global](https://mindows.cn/en/)
+    + Uotan Community: [Uotan](https://www.uotan.cn/)
 
 ### Q&A
   - Why not store it in [edk2-porting](https://github.com/edk2-porting) ?
