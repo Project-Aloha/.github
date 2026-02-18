@@ -15,7 +15,7 @@
 ___
 
 ### Links
-  - Official Website: [Project Aloha home](https://project-aloha.github.io/)
+  - Official Website: [Project Aloha home](https://aloha.firmware.icu/)
   - Groups:
     > Please do not join in groups only for asking "Does my device or a platform supports running windows", You can check our [uefi readme](https://github.com/project-aloha/mu_aloha_platforms?tab=readme-ov-file#target-list) to get devices list that support booting windows. Alternatively, you can also check mindows supports list for onekey flashing.
     + Telegram group: [Project Aloha issues & advice](https://t.me/project_aloha_issues)
