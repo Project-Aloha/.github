@@ -29,8 +29,8 @@ ___
     - The owner removed mu-sm8150pkg from edk2-porting because it has edk2-msm, which supports more platforms.
   - Why not put it under personal account ?
     - It should be owned by all the developers contributed to it.
-  - What's the meaning of this orgnization ?
-    - The repo(s) still needs to be mantained and updated.
+  - What's the meaning of this organization ?
+    - The repo(s) still needs to be maintained and updated.
   
 ___
 
@@ -45,7 +45,7 @@ ___
   - [Renegade Project](https://github.com/edk2-porting)
 
 # Licenses
- - __The [MU-sm8150pkg repo](https://github.com/Project-Aloha/mu-sm8150pkg) is based on [WOA-Project/SurfaceDuoPkg](https://github.com/WOA-Project/SurfaceDuoPkg/).__
+ - __The [mu_aloha_platforms](https://github.com/Project-Aloha/mu_aloha_platforms) is based on [WOA-Project/SurfaceDuoPkg](https://github.com/WOA-Project/SurfaceDuoPkg/).__
    - [BSD 2-Clause "Simplified" License](https://github.com/Project-Aloha/msmnilePkg/blob/main/LICENSE)
  - __The [msmnile-Drivers repo](https://github.com/Project-Aloha/msmnile-Drivers) is based on [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers).__
    - [Cross Licensed](https://github.com/Project-Aloha/msmnile-Drivers/blob/main/LICENSE.md)
